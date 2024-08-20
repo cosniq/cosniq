@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cosniq (Costea Nicolae)
-- 👀 I’m interested in coding, interesting design for GUIs and most importantly dogs
+- 👀 I’m interested in coding, GUIs, 3D applications and most importantly dogs
 - 🌱 I’m currently studying at Technical Univesity of Cluj-Napoca
 - 📫 You can find me at the e-mail: nicu_costea1@yahoo.com
 
